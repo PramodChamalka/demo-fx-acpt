@@ -72,4 +72,9 @@ String operation;
 
 
 
+    public void getAnswer(){
+
+    }
+
+
 }
