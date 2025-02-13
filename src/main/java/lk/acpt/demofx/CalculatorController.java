@@ -76,5 +76,18 @@ String operation;
 
     }
 
+    public void setDatatoCal(){
+
+    }
+
+    public void setAge() {
+
+    }
+
+    public void setAddress(){
+
+    }
+
+
 
 }
